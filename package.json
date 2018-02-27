@@ -142,6 +142,7 @@
     "electron": "^1.7.11",
     "electron-builder": "^19.55.3",
     "electron-devtools-installer": "^2.2.3",
+    "electron-react-devtools": "^0.5.3",
     "electron-rebuild": "^1.7.3",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",

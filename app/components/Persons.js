@@ -7,7 +7,7 @@ class Persons extends Component<Props> {
   props: Props;
 
   render() {
-
+    console.log(this.props);
     return (
       <div>
         <h2>Persons</h2>

@@ -92,7 +92,7 @@ const styles = theme => ({
 
 class MiniDrawer extends React.Component {
   state = {
-    open: true,
+    open: false,
   };
 
   handleDrawerOpen = () => {
